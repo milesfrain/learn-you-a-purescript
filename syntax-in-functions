@@ -23,7 +23,7 @@
                                                         <a href="types-and-typeclasses" class="prevlink">Types and Typeclasses</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="recursion" class="nxtlink">Recursion</a>
@@ -383,7 +383,7 @@ describeList xs = "The list is " ++ what xs
                                                         <a href="types-and-typeclasses" class="prevlink">Types and Typeclasses</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="recursion" class="nxtlink">Recursion</a>

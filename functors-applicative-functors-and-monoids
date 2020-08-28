@@ -23,7 +23,7 @@
                                                         <a href="functionally-solving-problems" class="prevlink">Functionally Solving Problems</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="a-fistful-of-monads" class="nxtlink">A Fistful of Monads</a>
@@ -2134,7 +2134,7 @@ instance of <span class="fixed">Foldable</span>.
                                                         <a href="functionally-solving-problems" class="prevlink">Functionally Solving Problems</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="a-fistful-of-monads" class="nxtlink">A Fistful of Monads</a>

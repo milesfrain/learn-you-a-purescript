@@ -23,7 +23,7 @@
                                                         <a href="higher-order-functions" class="prevlink">Higher Order Functions</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="making-our-own-types-and-typeclasses" class="nxtlink">Making Our Own Types and Typeclasses</a>
@@ -912,7 +912,7 @@ import qualified Geometry.Cube as Cube
                                                         <a href="higher-order-functions" class="prevlink">Higher Order Functions</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="making-our-own-types-and-typeclasses" class="nxtlink">Making Our Own Types and Typeclasses</a>

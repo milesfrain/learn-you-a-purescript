@@ -23,7 +23,7 @@
                                                         <a href="making-our-own-types-and-typeclasses" class="prevlink">Making Our Own Types and Typeclasses</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="functionally-solving-problems" class="nxtlink">Functionally Solving Problems</a>
@@ -1303,7 +1303,7 @@ main = do toTry `catch` handler1
                                                         <a href="making-our-own-types-and-typeclasses" class="prevlink">Making Our Own Types and Typeclasses</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="functionally-solving-problems" class="nxtlink">Functionally Solving Problems</a>

@@ -23,7 +23,7 @@
                                                         <a href="modules" class="prevlink">Modules</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="input-and-output" class="nxtlink">Input and Output</a>
@@ -1046,7 +1046,7 @@ instance Functor (Barry a b) where
                                                         <a href="modules" class="prevlink">Modules</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="input-and-output" class="nxtlink">Input and Output</a>

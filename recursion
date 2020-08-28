@@ -23,7 +23,7 @@
                                                         <a href="syntax-in-functions" class="prevlink">Syntax in Functions</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="higher-order-functions" class="nxtlink">Higher Order Functions</a>
@@ -145,7 +145,7 @@ ghci&gt; quicksort "the quick brown fox jumps over the lazy dog"
                                                         <a href="syntax-in-functions" class="prevlink">Syntax in Functions</a>
                                             </li>
                     <li style="text-align:center">
-                        <a href="chapters">Table of contents</a>
+                        <a href="index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
                                                         <a href="higher-order-functions" class="nxtlink">Higher Order Functions</a>
