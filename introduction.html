@@ -41,7 +41,7 @@ If you're reading this, chances are you want to learn PureScript. Well, you've c
 <p>
 I decided to write this because I wanted to solidify my own knowledge of PureScript and because I thought I could help people new to PureScript learn it from my perspective. There are quite a few tutorials on PureScript floating around on the internet. When I was starting out in PureScript, I didn't learn from just one resource. The way I learned it was by reading several different tutorials and articles because each explained something in a different way than the other did. By going through several resources, I was able put together the pieces and it all just came falling into place. So this is an attempt at adding another useful resource for learning PureScript so you have a bigger chance of finding one you like.
 </p>
-<img src="http://s3.amazonaws.com/lyah/bird.png" alt="bird" class="left" width="230" height="192">
+<img src="https://s3.amazonaws.com/lyah/bird.png" alt="bird" class="left" width="230" height="192">
 <p>
 This tutorial is aimed at people who have experience in imperative programming languages (C, C++, Java, Python &hellip;) but haven't programmed in a functional language before (Haskell, ML, OCaml &hellip;). Although I bet that even if you don't have any significant programming experience, a smart person such as yourself will be able to follow along and learn PureScript.
 </p>
@@ -54,12 +54,12 @@ I failed to learn PureScript approximately 2 times before finally grasping it be
 
 <a name="so-whats-purescript"></a><h2>So what's PureScript?</h2>
 <p>
-<img src="http://s3.amazonaws.com/lyah/fx.png" alt="fx" class="right" width="150" height="146">
+<img src="https://s3.amazonaws.com/lyah/fx.png" alt="fx" class="right" width="150" height="146">
 PureScript is a <em>purely functional programming language</em>.
 In imperative languages you get things done by giving the computer a sequence of tasks and then it executes them. While executing them, it can change state. For instance, you set variable <span class="fixed">a</span> to 5 and then do some stuff and then set it to something else. You have control flow structures for doing some action several times. In purely functional programming you don't tell the computer what to do as such but rather you tell it what stuff <i>is</i>. The factorial of a number is the product of all the numbers from 1 to that number, the sum of a list of numbers is the first number plus the sum of all the other numbers, and so on. You express that in the form of functions. You also can't set a variable to something and then set it to something else later. If you say that <span class="fixed">a</span> is 5, you can't say it's something else later because you just said it was 5. What are you, some kind of liar? So in purely functional languages, a function has no side-effects. The only thing a function can do is calculate something and return it as a result. At first, this seems kind of limiting but it actually has some very nice consequences: if a function is called twice with the same parameters, it's guaranteed to return the same result. That's called referential transparency and not only does it allow the compiler to reason about the program's behavior, but it also allows you to easily deduce (and even prove) that a function is correct and then build more complex functions by gluing simple functions together.
 </p>
 <p>
-<img src="http://s3.amazonaws.com/lyah/boat.png" class="right" alt="boat" width="160" height="153">
+<img src="https://s3.amazonaws.com/lyah/boat.png" class="right" alt="boat" width="160" height="153">
 PureScript is <em>statically typed</em>. When you compile your program, the compiler knows which piece of code is a number, which is a string and so on. That means that a lot of possible errors are caught at compile time. If you try to add together a number and a string, the compiler will whine at you. PureScript uses a very good type system that has <em>type inference</em>. That means that you don't have to explicitly label every piece of code with a type because the type system can intelligently figure out a lot about it. If you say <span class="fixed">a = 5 + 4</span>, you don't have to tell PureScript that <span class="fixed">a</span> is a number (technically an <span class="fixed">Int</span>), it can figure that out by itself. Type inference also allows your code to be more general. If a function you make takes two parameters and adds them together and you don't explicitly state their type, the function will work on any two parameters that act like numbers.
 </p>
 <p>
