@@ -3,3 +3,10 @@
 A clone of http://learnyouahaskell.com/ targeting PureScript.
 
 WIP
+
+For testing locally, use something like `http-server`:
+```
+npm i -g http-server
+http-server
+# Open printed link in browser
+```
