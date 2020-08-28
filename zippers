@@ -2,7 +2,7 @@
    "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Zippers - Learn You a Haskell for Great Good!</title>
+<title>Zippers - Learn You a PureScript for Great Good!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css">
 	@import url('reset.css');
@@ -11,7 +11,7 @@
 <link rel="shortcut icon" href="favicon.png" type="image/png">
         <link rel="prev" href="for-a-few-monads-more">
 <link type="text/css" rel="stylesheet" href="sh/Styles/SyntaxHighlighter.css">
-<link href="rss.php" rel="alternate" type="application/rss+xml" title="Learn You a Haskell for Great Good! feed">
+<link href="rss.php" rel="alternate" type="application/rss+xml" title="Learn You a PureScript for Great Good! feed">
 </head>
 <body class="introcontent">
 <div class="bgwrapper">

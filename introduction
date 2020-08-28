@@ -2,7 +2,7 @@
    "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Introduction - Learn You a Haskell for Great Good!</title>
+<title>Introduction - Learn You a PureScript for Great Good!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css">
 	@import url('reset.css');
@@ -11,7 +11,7 @@
 <link rel="shortcut icon" href="favicon.png" type="image/png">
         <link rel="next" href="starting-out">
 <link type="text/css" rel="stylesheet" href="sh/Styles/SyntaxHighlighter.css">
-<link href="rss.php" rel="alternate" type="application/rss+xml" title="Learn You a Haskell for Great Good! feed">
+<link href="rss.php" rel="alternate" type="application/rss+xml" title="Learn You a PureScript for Great Good! feed">
 </head>
 <body class="introcontent">
 <div class="bgwrapper">
@@ -32,7 +32,7 @@
 <a name="about-this-tutorial"></a>
 <h2>About this tutorial</h2>
 <p>
-Welcome to <em>Learn You a Haskell for Great Good</em>! 
+Welcome to <em>Learn You a PureScript for Great Good</em>! 
 If you're reading this, chances are you want to learn Haskell. Well, you've come to the right place, but let's talk about this tutorial a bit first.  
 </p>
 <p>
